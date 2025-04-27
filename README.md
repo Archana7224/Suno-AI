@@ -65,7 +65,7 @@ We deliver **real-time text, voice, and image support** — all in one platform.
 # 📽️ Demo & Deliverables
 
 - **Demo Video Link:** *[Paste after recording 🎥]*
-- **Pitch Deck / PPT Link:** *[Paste Google Slides link 📄]*
+- **Pitch Deck / PPT Link:** *https://docs.google.com/presentation/d/14EaeMDyJz-rbQTyeMWuG6b_ymsTC1shmrdPoo-Eu5Hk/edit?usp=sharing*
 
 ---
 
